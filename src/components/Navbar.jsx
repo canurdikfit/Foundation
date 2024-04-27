@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <nav className="fixed w-full z-50 lg:top-8 top-0">
       <div
-        className="mx-auto py-2 px-10 sm:px-16 lg:px-2 lg:rounded-full border border-[#31363D] max-w-[1000px] w-full bg-[#19191A] drop-shadow-lg"
+        className="mx-auto py-2 px-10 sm:px-16 lg:px-2 lg:rounded-full lg:border border-[#31363D] max-w-[1000px] w-full bg-[#19191A] drop-shadow-lg"
         data-aos="fade-down"
         data-aos-easing="ease-in-back"
         data-aos-duration="1200"
